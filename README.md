@@ -1,2 +1,3 @@
 # obito-demo
-learning c++ 
+learning c++ and c
+
